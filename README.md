@@ -6,7 +6,7 @@
   
 - 🌱 I’m currently learning Rust, Nvim, and NixOs.
   
-- 👯 I’m looking to collaborate on anything really, just message if you're looking for some help lol
+- 👯 I’m looking to collaborate on just about anything really, don't hesitate to message if you're looking for some help lol
 
 - ⚡ Fun fact:  I love learning and problem solving! This is reflected in the three passions of my life:
   - 💻 programming/engineering
