@@ -10,6 +10,8 @@
   
 - 👯 I’m looking to collaborate on just about anything really, don't hesitate to message if you're looking for some help lol
 
+- Check out some of my pinned repos below to see some of the cool React, Javascript, C and other projects I've developed!
+
 - ⚡ A fun fact about me:  I love learning and problem solving! This is reflected in the three passions of my life:
   - 💻 programming/engineering
   - 🎮 video games
@@ -33,7 +35,6 @@
 <img src="https://img.icons8.com/color/30/000000/firebase.png"/>
 <img src="https://img.icons8.com/color/30/000000/linux.png"/>
 <img src="https://img.icons8.com/color/30/000000/mongoDB.png"/>
-  
 </p>
 
 <h2>A great quote for programming and life in general:</h2>
