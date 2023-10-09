@@ -8,7 +8,7 @@
   
 - 👯 I’m looking to collaborate on anything really, just message if you're looking for some help lol
 
-- ⚡ Fun fact:  I love learning, and problem solving! This is reflected in the three passions of my life:
+- ⚡ Fun fact:  I love learning and problem solving! This is reflected in the three passions of my life:
   - 💻 programming/engineering
   - 🎮 video games
   - 🧗 rock climbing
