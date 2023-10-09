@@ -31,7 +31,19 @@
 <img src="https://img.icons8.com/nolan/30/heroku.png"/>
 <img src="https://img.icons8.com/color/30/000000/firebase.png"/>
 <img src="https://img.icons8.com/color/30/000000/linux.png"/>
-<img src="https://img.icons8.com/color/30/000000/mongoDB.png"/>
+<img src="https://icons8.com/icon/38792/virtualbox"/>
+<img src="https://icons8.com/icon/tBBf3P8HL0vR/mongodb-a-cross-platform-document-oriented-database-program"/>
+<img src="https://icons8.com/icon/DYjckUr8cF8H/sass"/>
+<img src="https://icons8.com/icon/106501/amazon-s3"/>
+<img src="https://icons8.com/icon/sOWbK4N3cxGh/webpack"/>
+<img src="https://icons8.com/icon/8gfeOoqrHqJU/figma"/>
+<img src="https://icons8.com/icon/50ZQHdJTmPqw/bash"/>
+<img src="https://icons8.com/icon/CLvQeiwFpit4/r-project"/>
+<img src="https://icons8.com/icon/K6Jm3KxEwqz9/cmake-a-cross-platform-free-and-open-source-software-tool"/>
+<img src="https://icons8.com/icon/TwdB62yFXesu/flutter"/>
+<img src="https://icons8.com/icon/egQrEphjrirz/redux"/>
+<img src="https://icons8.com/icon/xSkewUSqtErH/pandas"/>
+<img src="https://icons8.com/icon/aR9CXyMagKIS/numpy"/>
 </p>
 
 <h2>A great quote for programming and life in general:</h2>
