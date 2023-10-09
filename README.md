@@ -19,32 +19,31 @@
 <h2>My Languages and Tools</h2>
 
 <p align="left">
-<img src="https://img.icons8.com/color/30/000000/javascript.png"/>
-<img src="https://img.icons8.com/color/30/000000/c-programming.png"/>
-<img src="https://img.icons8.com/color/30/000000/python.png"/>
-<img src="https://img.icons8.com/color/30/000000/html-5.png"/>
-<img src="https://img.icons8.com/color/30/000000/css3.png"/>
-<img src="https://img.icons8.com/color/30/000000/nodejs.png"/>
-<img src="https://img.icons8.com/plasticine/30/000000/react.png"/>
-<img src="https://img.icons8.com/color/30/000000/git.png"/>
-<img src="https://img.icons8.com/fluent/30/000000/visual-studio-code-2019.png"/>
-<img src="https://img.icons8.com/nolan/30/heroku.png"/>
-<img src="https://img.icons8.com/color/30/000000/firebase.png"/>
-<img src="https://img.icons8.com/color/30/000000/linux.png"/>
-<img src="https://icons8.com/icon/38792/virtualbox"/>
-<img src="https://icons8.com/icon/tBBf3P8HL0vR/mongodb-a-cross-platform-document-oriented-database-program"/>
-<img src="https://icons8.com/icon/DYjckUr8cF8H/sass"/>
-<img src="https://icons8.com/icon/106501/amazon-s3"/>
-<img src="https://icons8.com/icon/sOWbK4N3cxGh/webpack"/>
-<img src="https://icons8.com/icon/8gfeOoqrHqJU/figma"/>
-<img src="https://icons8.com/icon/50ZQHdJTmPqw/bash"/>
-<img src="https://icons8.com/icon/CLvQeiwFpit4/r-project"/>
-<img src="https://icons8.com/icon/K6Jm3KxEwqz9/cmake-a-cross-platform-free-and-open-source-software-tool"/>
-<img src="https://icons8.com/icon/TwdB62yFXesu/flutter"/>
-<img src="https://icons8.com/icon/egQrEphjrirz/redux"/>
-<img src="https://icons8.com/icon/xSkewUSqtErH/pandas"/>
-<img src="https://icons8.com/icon/aR9CXyMagKIS/numpy"/>
-</p>
+<img width=35 height="35" src="https://img.icons8.com/color/30/000000/javascript.png"/>
+<img width="35" height="35" src="https://img.icons8.com/color/30/000000/c-programming.png"/>
+<img width="35" height="35" src="https://img.icons8.com/color/30/000000/python.png"/>
+<img width="35" height="35" src="https://img.icons8.com/color/30/000000/html-5.png"/>
+<img width="35" height="35" src="https://img.icons8.com/color/30/000000/css3.png"/>
+<img width="35" height="35" src="https://img.icons8.com/color/30/000000/nodejs.png"/>
+<img width="35" height="35" src="https://img.icons8.com/plasticine/30/000000/react.png"/>
+<img width="35" height="35" src="https://img.icons8.com/color/30/000000/git.png"/>
+<img width="35" height="35" src="https://img.icons8.com/fluent/30/000000/visual-studio-code-2019.png"/>
+<img width="35" height="35" src="https://img.icons8.com/nolan/30/heroku.png"/>
+<img width="35" height="35" src="https://img.icons8.com/color/30/000000/firebase.png"/>
+<img width="35" height="35" src="https://img.icons8.com/color/30/000000/linux.png"/>
+<img width="35" height="35" src="https://img.icons8.com/color/48/virtualbox.png" alt="virtualbox"/>
+<img width="35" height="35" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo"/>
+<img width="35" height="35" src="https://img.icons8.com/ios/50/sass.png" alt="sass"/>
+<img width="35" height="35" src="https://img.icons8.com/color/48/amazon-s3.png" alt="amazon-s3"/>
+<img width="35" height="35" src="https://img.icons8.com/color/48/webpack.png" alt="webpack"/>
+<img width="35" height="35" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
+<img width="35" height="35" src="https://img.icons8.com/plasticine/100/bash.png" alt="bash"/>
+<img width="35" height="35" src="https://img.icons8.com/fluency/48/r-project.png" alt="r-project"/>
+<img width="35" height="35" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-cmake-a-cross-platform-free-and-open-source-software-tool-logo-color-tal-revivo.png" alt="external-cmake-a-cross-platform-free-and-open-source-software-tool-logo-color-tal-revivo"/>
+<img width="35" height="35" src="https://img.icons8.com/ios/50/flutter.png" alt="flutter"/>
+<img width="35" height="35" src="https://img.icons8.com/ios/50/redux.png" alt="redux"/>
+<img width="35" height="35" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/>
+<img width="35" height="35" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/>
 
 <h2>A great quote for programming and life in general:</h2>
 
