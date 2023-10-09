@@ -3,8 +3,6 @@
 <h2>A little about me...</h2>
 
 <p>
-
-- 😄 My pronouns are he/him
   
 - 🌱 I’m currently learning Rust, Nvim, and NixOs.
   
