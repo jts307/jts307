@@ -16,7 +16,7 @@
 - 👇 Check out some of my pinned repos below  to see some of the cool React, Javascript, C and other projects I've developed!
 </p>
 
-<h2>Languages and Tools that I at least know the basics of</h2>
+<h2>Languages and Tools that I at least know the basics of...I think? lol</h2>
 
 <p align="left">
 <img width=35 height="40" src="https://img.icons8.com/color/30/000000/javascript.png"/>
