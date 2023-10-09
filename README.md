@@ -41,4 +41,3 @@
 
 goofy meme:
 
-<img>https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fs28zf8y4pea91.gif</img>
