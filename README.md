@@ -36,7 +36,7 @@
   
 </p>
 
-<h2>A great quote for programming and life in general...</h2>
+<h2>A great quote for programming and life in general:</h2>
 
 ---
 > *“Get the fundamentals down and the level of everything you do will rise.”* ~ Michael Jordan
