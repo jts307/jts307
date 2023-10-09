@@ -10,7 +10,7 @@
   
 - 👯 I’m looking to collaborate on just about anything really, don't hesitate to message if you're looking for some help lol
 
-- Check out some of my pinned repos below to see some of the cool React, Javascript, C and other projects I've developed!
+- 👇 Check out some of my pinned repos below  to see some of the cool React, Javascript, C and other projects I've developed!
 
 - ⚡ A fun fact about me:  I love learning and problem solving! This is reflected in the three passions of my life:
   - 💻 programming/engineering
