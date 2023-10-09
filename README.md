@@ -39,5 +39,6 @@
 > *“Get the fundamentals down and the level of everything you do will rise.”* ~ Michael Jordan
 ---
 
-goofy meme:
+<h3>Obligatory Goofy Meme</h3>
 
+<img src="https://media.giphy.com/media/WoXy2vF5z2l78soBV3/giphy.gif"></img>
