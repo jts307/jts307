@@ -40,7 +40,6 @@
 <img width="40" height="40" src="https://img.icons8.com/plasticine/100/bash.png" alt="bash"/>
 <img width="40" height="40" src="https://img.icons8.com/fluency/48/r-project.png" alt="r-project"/>
 <img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-cmake-a-cross-platform-free-and-open-source-software-tool-logo-color-tal-revivo.png" alt="external-cmake-a-cross-platform-free-and-open-source-software-tool-logo-color-tal-revivo"/>
-<img width="40" height="40" src="https://img.icons8.com/ios/50/flutter.png" alt="flutter"/>
 <img width="40" height="40" src="https://img.icons8.com/ios/50/redux.png" alt="redux"/>
 <img width="40" height="40" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/>
 <img width="40" height="40" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/>
