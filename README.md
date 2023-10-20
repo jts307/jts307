@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on just about anything really, don't hesitate to message if you're looking for some help lol
 
 - ⚡ A fun fact about me:  I love learning and problem solving! This is reflected in the three passions of my life:
-  - 💻 programming/engineering
+  - 💻 programming/engineering 
   - 🎮 video games
   - 🧗 rock climbing
 
