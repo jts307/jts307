@@ -4,7 +4,7 @@
 
 <p>
   
-- 🌱 I’m currently learning Rust, Nvim, and NixOs.
+- 🌱 I’m currently learning Rust, and Nvim.
   
 - 👯 I’m looking to collaborate on just about anything really, don't hesitate to message if you're looking for some help lol
 
