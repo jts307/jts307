@@ -4,7 +4,7 @@
 
 <p>
   
-- 🌱 I’m currently learning Rust and Neovim.
+- 🌱 I’m currently learning Rust, Neovim, and working on this project: https://github.com/nprabala/Mynd
   
 - 👯 I’m looking to collaborate on just about anything really, don't hesitate to message if you're looking for some help lol
 
